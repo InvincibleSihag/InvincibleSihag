@@ -1,6 +1,6 @@
-<div align="center"><img src="./GithubHead.gif" style="height: 200px;"></div>
+<div align="center"><img src="https://www.pixel4k.com/wp-content/uploads/2019/03/spiderman-miles-lost-in-space-4k_1553071367.jpg" style="height: 200px;"></div>
 
-<h1 align="center">Hey! <img src="https://www.pixel4k.com/wp-content/uploads/2019/03/spiderman-miles-lost-in-space-4k_1553071367.jpg" width="40px"> I am Sawan Sihag!</h1>
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Sawan Sihag!</h1>
 <div align="center">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=InvincibleSihag">
 </div>
@@ -77,7 +77,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?usernameInvincibleSihag&theme=github" alt="GitHub Activity Graph" width="100%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=InvincibleSihag&theme=github" alt="GitHub Activity Graph" width="100%" />
 
 <br>
 <br>
