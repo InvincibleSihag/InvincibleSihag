@@ -23,7 +23,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </div>
 <br>  
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently in my <b>3rd year</b> of Bachelors in Computer Science. I am a <b>Android, Python Software developer</b> and a <b>machine learning enthusiast</b>. Also, I am a mobile photographer and video creator. Want to see some of my work, <a href="https://www.instagram.com/invinciblesihag/"><b>click here.</b></a></p>
+<p align="center">Hey! I am currently in my <b>3rd year</b> of Bachelors in Computer Science. I am an <b>Android Developer, Python Software developer</b> and a <b>Deep learning enthusiast</b>. Also, I am a mobile photographer and video creator. Want to see some of my work, <a href="https://www.instagram.com/invinciblesihag/"><b>click here.</b></a></p>
 <br>
 <h3 align="left">About me 🤔</h3>
 <div align="left">
