@@ -32,12 +32,6 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   &bullet;&nbsp;Build Quadcopter (Drone) flight controller software from scratch, Huge Interest in Internet of Things<br>
 </div>
 <br>
-<h3>Tech stack I work with 👇</h3>
-
-<h4>Hosting</h4>    
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic) 
-
 <br>
 <h3>Github Stats 📈</h3>
 
