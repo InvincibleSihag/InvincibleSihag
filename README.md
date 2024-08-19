@@ -23,14 +23,10 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </div>
 <br>  
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently developing software solutions to help lots of students. I have userbase of more than 30,000+ users. I am an <b>Android Developer, Python Software developer</b> and a <b>Deep learning enthusiast</b>. Also, I am a mobile photographer and video creator. Want to see some of my work, <a href="https://www.instagram.com/invinciblesihag/"><b>click here.</b></a></p>
+<p align="center"> I am a seasoned Full Stack Developer with a deep focus on backend engineering, specializing in building and scaling high-performance applications. My expertise lies in designing and implementing complex, distributed systems that are both resilient and scalable, with a strong emphasis on API development, microservices architecture, and cloud computing.
+<a href="https://www.instagram.com/invinciblesihag/"><b>click here.</b></a></p>
 <br>
 <h3 align="left">About me 🤔</h3>
-<div align="left">
-  &bullet;&nbsp;I developed lot of python softwares to scrape complicated websites.<i> Want me to develop something for you, reach me.</i><br>
-  &bullet;&nbsp;Developed many Android Apps using native Java.<br>
-  &bullet;&nbsp;Build Quadcopter (Drone) flight controller software from scratch, Huge Interest in Internet of Things<br>
-</div>
 <br>
 <br>
 <h3>Github Stats 📈</h3>
