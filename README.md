@@ -1,7 +1,7 @@
 
 <h1 align="center">Sawan Sihag</h1>
-<p align="center">Building resilient backends and AI‑driven products</p>
-<p align="center">APIs • microservices • distributed systems • cloud</p>
+<p align="center">Building AI agents and resilient backends</p>
+<p align="center">AI agents • RAG • APIs • microservices • distributed systems</p>
 
 <p align="center">
 <img alt="Python" src="https://cdn.simpleicons.org/python/6e7781" height="22"/>
@@ -18,20 +18,24 @@
 &nbsp;&nbsp;
 </p>
 
+<div align="center">
 <table>
 <tr>
-<td align="center">⚡ <b>Performance</b><br/><sub>fast APIs • p99 focus</sub></td>
-<td align="center">🛡️ <b>Reliability</b><br/><sub>observability • fault‑tolerance</sub></td>
-<td align="center">🧰 <b>DX</b><br/><sub>tooling • CLIs • docs</sub></td>
+<td align="center">⚡ <b>Performance</b><br/><sub>low‑latency • scalable services</sub></td>
+<td align="center">🧠 <b>AI Agents</b><br/><sub>tools • function‑calling • memory • RAG</sub></td>
+<td align="center">🦙 <b>LlamaIndex</b><br/><sub>framework contribs • retrieval • agents</sub></td>
 </tr>
 </table>
+</div>
 
-<p align="center">Now: scaling high‑perf services • LLM agents • open to collab</p>
+<p align="center">Now: building LlamaIndex‑powered agents • scaling low‑latency backends • open to collab</p>
 
 ---
 
 ### Selected Work
 - AlienX — [alienx.app](https://alienx.app/)
+
+- LlamaIndex PRs — [view contributions](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3AInvincibleSihag)
 
 ### Connect
 <p align="left">
