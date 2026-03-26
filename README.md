@@ -1,6 +1,6 @@
 
 <h1 align="center">Sawan Sihag</h1>
-<p align="center">Building AI agents and resilient backends</p>
+<p align="center">Building AI agents Orchestration and resilient backends</p>
 <p align="center">AI agents • RAG • APIs • microservices • distributed systems</p>
 
 <p align="center">
@@ -28,12 +28,12 @@
 </table>
 </div>
 
-<p align="center">Now: building LlamaIndex‑powered agents • scaling low‑latency backends • open to collab</p>
+<p align="center">Now: building LlamaIndex/Langchain powered agents • scaling low‑latency backends • open to collab</p>
 
 ---
 
 ### Selected Work
-- AlienX — [alienx.app](https://alienx.app/)
+- Collegia — [collegia.app](https://collegia.app/)
 
 - LlamaIndex PRs — [view contributions](https://github.com/run-llama/llama_index/pulls?q=is%3Apr+author%3AInvincibleSihag)
 
